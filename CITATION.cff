@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Structured Semi-Markov Decoding with Conformal Prediction for Wrist-Actigraphy Sleep Event Detection"
+authors:
+  - family-names: Huynh
+    given-names: Hoang Nhut
+    affiliation: "National Chung Hsing University"
+    email: d114068001@mail.nchu.edu.tw
+  - family-names: Nguyen Diep
+    given-names: Quoc Tuan
+  - family-names: Huynh
+    given-names: Thanh Ven
+  - family-names: Tran
+    given-names: Anh Tu
+  - family-names: Ching
+    given-names: Congo Tak Shing
+  - family-names: Tran
+    given-names: Trung Nghia
+date-released: 2026-10-27

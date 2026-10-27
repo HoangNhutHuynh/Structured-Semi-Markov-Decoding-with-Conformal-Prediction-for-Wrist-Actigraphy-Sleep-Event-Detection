@@ -1,0 +1,24 @@
+# ----------------------------------------------------------------------------
+# Structured Semi-Markov Decoding with Conformal Prediction for
+# Wrist-Actigraphy Sleep Event Detection
+#
+# Author    : Hoang Nhut Huynh
+# Copyright : (c) 2026 Hoang Nhut Huynh
+# ----------------------------------------------------------------------------
+seed: 42
+paths:
+  data_dir: 'data'          # folder holding train_series.parquet + train_events.csv (Kaggle)
+  series_file: train_series.parquet
+  events_file: train_events.csv
+  output_dir: outputs
+  cache_dir: outputs/cache
+processing:
+  batch_size: 250000
+  nonwear_repeat_shift: 17280
+  nonwear_min_minutes: 60
+  sample_seconds: 5
+  integrity_max_per_check: 5
+  night_boundary_hour: 15
+splits:
+  n_splits: 5
+  val_fraction: 0.15
