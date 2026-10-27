@@ -202,4 +202,4 @@ Copyright © 2026 Hoang Nhut Huynh. All rights reserved unless a `LICENSE` file 
 
 ## Contact
 
-Hoang Nhut Huynh — d114068001@mail.nchu.edu.tw
+Hoang Nhut Huynh — d114068001@mail.nchu.edu.tw or hhnhut@hcmut.edu.vn or huynhnhut2000tt@gmail.com
